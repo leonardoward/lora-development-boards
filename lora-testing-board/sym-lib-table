@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ATGM332D-5N31)(type Legacy)(uri ${KIPRJMOD}/Symbols/ATGM332D-5N31.lib)(options "")(descr ""))
+)

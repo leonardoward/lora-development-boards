@@ -1,0 +1,27 @@
+"Source:","C:\Ext\lora-development-boards\lora-testing-board\lora-testing-board.sch"
+"Date:","7/18/2021 4:30:37 PM"
+"Tool:","Eeschema (5.1.10)-1"
+"Generator:","C:\Program Files\KiCad\bin\scripting\plugins/bom_csv_grouped_by_value.py"
+"Component Count:","6"
+
+"Individual Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Description","Manufacturer","Manufacturer Name","Manufacturer Part Number","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2"
+"","","C1","C-10uF-0805","C-10uF-0805:C-10uF-0805","Capacitor_SMD:C_0805_2012Metric","","","Samsung Electro-Mechanics","","CL21A106KQCLNNC","Digi-Key","","1276-2404-1-ND",""
+"","","J1","Conn_01x02_Male","Connector:Conn_01x02_Male","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical","~","","","","","","","",""
+"","","J2","Conn_01x06_Male","Connector:Conn_01x06_Male","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~","","","","","","","",""
+"","","J3","U.FL-R-SMT-1_10_","U.FL-R-SMT-1_10_:U.FL-R-SMT-1_10_","U.FL-R-SMT-1(10):U.FL-R-SMT-1_10_","https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&productname=U.FL-R-SMT-1(10)&series=U.FL&documenttype=2DDrawing&lang=en&documentid=0000940684","UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial","","Hirose","U.FL-R-SMT-1(10)","Digi-Key","Mouser","H11891CT-ND","798-U.FL-R-SMT-110"
+"","","J4","Conn_01x07_Male","Connector:Conn_01x07_Male","Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical","~","","","","","","","",""
+"","","U1","RFM95W-915S2","RFM95W-915S2:RFM95W-915S2","RF_Module:HOPERF_RFM9XW_SMD","https://www.rfsolutions.co.uk/downloads/1463993415RFM95_96_97_98W.pdf","","","","","Digi-Key","","RFM95W-915S2-ND",""
+
+
+
+"Collated Components:"
+
+"Item","Qty","Reference(s)","Value","LibPart","Footprint","Datasheet","Description","Manufacturer","Manufacturer Name","Manufacturer Part Number","Supplier 1","Supplier 2","Supplier Part Number 1","Supplier Part Number 2"
+"1","1","C1","C-10uF-0805","C-10uF-0805:C-10uF-0805","Capacitor_SMD:C_0805_2012Metric","","","Samsung Electro-Mechanics","","CL21A106KQCLNNC","Digi-Key","","1276-2404-1-ND",""
+"2","1","J1","Conn_01x02_Male","Connector:Conn_01x02_Male","Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical","~","","","","","","","",""
+"3","1","J2","Conn_01x06_Male","Connector:Conn_01x06_Male","Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical","~","","","","","","","",""
+"4","1","J3","U.FL-R-SMT-1_10_","U.FL-R-SMT-1_10_:U.FL-R-SMT-1_10_","U.FL-R-SMT-1(10):U.FL-R-SMT-1_10_","https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&productname=U.FL-R-SMT-1(10)&series=U.FL&documenttype=2DDrawing&lang=en&documentid=0000940684","UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial","","Hirose","U.FL-R-SMT-1(10)","Digi-Key","Mouser","H11891CT-ND","798-U.FL-R-SMT-110"
+"5","1","J4","Conn_01x07_Male","Connector:Conn_01x07_Male","Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical","~","","","","","","","",""
+"6","1","U1","RFM95W-915S2","RFM95W-915S2:RFM95W-915S2","RF_Module:HOPERF_RFM9XW_SMD","https://www.rfsolutions.co.uk/downloads/1463993415RFM95_96_97_98W.pdf","","","","","Digi-Key","","RFM95W-915S2-ND",""

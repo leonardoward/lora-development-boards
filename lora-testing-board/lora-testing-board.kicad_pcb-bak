@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 29)
+    (drawings 27)
     (tracks 89)
     (zones 0)
     (modules 6)
@@ -12,7 +12,7 @@
   (page A4)
   (layers
     (0 F.Cu signal)
-    (31 B.Cu signal hide)
+    (31 B.Cu signal)
     (32 B.Adhes user)
     (33 F.Adhes user)
     (34 B.Paste user)
@@ -409,12 +409,6 @@
     )
   )
 
-  (gr_text 18-07-2021 (at 118.11 90.424) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)) (justify right))
-  )
-  (gr_text L.W (at 118.11 88.392) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)) (justify right))
-  )
   (gr_line (start 128.27 83.82) (end 81.28 83.82) (layer Edge.Cuts) (width 0.05) (tstamp 60F4C0AF))
   (gr_line (start 129.54 114.3) (end 129.54 85.09) (layer Edge.Cuts) (width 0.05) (tstamp 60F4C0AE))
   (gr_line (start 81.28 115.57) (end 128.27 115.57) (layer Edge.Cuts) (width 0.05) (tstamp 60F4C0AD))

@@ -1,0 +1,12 @@
+Info: Checking netlist symbol footprint "C1:/60F514A5:Capacitor_SMD:C_0805_2012Metric".
+Info: Checking netlist symbol footprint "J1:/60F44B42:Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J2:/60F3E586:Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "J3:/60F52CF6:U.FL-R-SMT-1(10):U.FL-R-SMT-1_10_".
+Info: Checking netlist symbol footprint "J4:/60F51643:Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical".
+Info: Checking netlist symbol footprint "U1:/60F3A12A:RF_Module:HOPERF_RFM9XW_SMD".
+Adding new symbol C1 footprint Capacitor_SMD:C_0805_2012Metric.
+Adding new symbol J1 footprint Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical.
+Adding new symbol J2 footprint Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical.
+Adding new symbol J3 footprint U.FL-R-SMT-1(10):U.FL-R-SMT-1_10_.
+Adding new symbol J4 footprint Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical.
+Adding new symbol U1 footprint RF_Module:HOPERF_RFM9XW_SMD.

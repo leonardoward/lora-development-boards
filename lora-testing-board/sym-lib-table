@@ -2,4 +2,5 @@
   (lib (name ATGM332D-5N31)(type Legacy)(uri ${KIPRJMOD}/Symbols/ATGM332D-5N31.lib)(options "")(descr ""))
   (lib (name RFM95W-915S2)(type Legacy)(uri ${KIPRJMOD}/Symbols/RFM95W-915S2.lib)(options "")(descr ""))
   (lib (name U.FL-R-SMT-1_10_)(type Legacy)(uri ${KIPRJMOD}/Symbols/U.FL-R-SMT-1_10_.lib)(options "")(descr ""))
+  (lib (name C-10uF-0805)(type Legacy)(uri ${KIPRJMOD}/Symbols/C-10uF-0805.lib)(options "")(descr ""))
 )

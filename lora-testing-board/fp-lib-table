@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "U.FL-R-SMT-1(10)")(type KiCad)(uri "${KIPRJMOD}/Footprints/U.FL-R-SMT-1(10).pretty")(options "")(descr ""))
+)

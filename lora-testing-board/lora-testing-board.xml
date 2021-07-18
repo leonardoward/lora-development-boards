@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Ext\lora-development-boards\lora-testing-board\lora-testing-board.sch</source>
+    <date>7/18/2021 4:30:37 PM</date>
+    <tool>Eeschema (5.1.10)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lora-testing-board.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="U1">
+      <value>RFM95W-915S2</value>
+      <footprint>RF_Module:HOPERF_RFM9XW_SMD</footprint>
+      <datasheet>https://www.rfsolutions.co.uk/downloads/1463993415RFM95_96_97_98W.pdf</datasheet>
+      <fields>
+        <field name="Supplier 1">Digi-Key</field>
+        <field name="Supplier Part Number 1">RFM95W-915S2-ND</field>
+      </fields>
+      <libsource lib="RFM95W-915S2" part="RFM95W-915S2" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F3A12A</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_01x06_Male</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x06_Male" description="Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F3E586</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>Conn_01x02_Male</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Male" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F44B42</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x07_Male</value>
+      <footprint>Connector_PinSocket_2.54mm:PinSocket_1x07_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x07_Male" description="Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F51643</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>C-10uF-0805</value>
+      <footprint>Capacitor_SMD:C_0805_2012Metric</footprint>
+      <fields>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Part Number">CL21A106KQCLNNC</field>
+        <field name="Supplier 1">Digi-Key</field>
+        <field name="Supplier Part Number 1">1276-2404-1-ND</field>
+      </fields>
+      <libsource lib="C-10uF-0805" part="C-10uF-0805" description="±10% 6.3V 0805 (2012 métrico) Capacitores cerámicos X5R"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F514A5</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>U.FL-R-SMT-1_10_</value>
+      <footprint>U.FL-R-SMT-1(10):U.FL-R-SMT-1_10_</footprint>
+      <datasheet>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</datasheet>
+      <fields>
+        <field name="Description">UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial</field>
+        <field name="Manufacturer Name">Hirose</field>
+        <field name="Manufacturer Part Number">U.FL-R-SMT-1(10)</field>
+        <field name="Supplier 1">Digi-Key</field>
+        <field name="Supplier 2">Mouser</field>
+        <field name="Supplier Part Number 1">H11891CT-ND</field>
+        <field name="Supplier Part Number 2">798-U.FL-R-SMT-110</field>
+      </fields>
+      <libsource lib="U.FL-R-SMT-1_10_" part="U.FL-R-SMT-1_10_" description="UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>60F52CF6</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="C-10uF-0805" part="C-10uF-0805">
+      <description>±10% 6.3V 0805 (2012 métrico) Capacitores cerámicos X5R</description>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-10uF-0805</field>
+        <field name="Footprint">Capacitor_SMD:C_0805_2012Metric</field>
+        <field name="Supplier 1">Digi-Key</field>
+        <field name="Supplier Part Number 1">1276-2404-1-ND</field>
+        <field name="Manufacturer">Samsung Electro-Mechanics</field>
+        <field name="Manufacturer Part Number">CL21A106KQCLNNC</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Male">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x06_Male">
+      <description>Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x06_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x07_Male">
+      <description>Generic connector, single row, 01x07, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x07_Male</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="RFM95W-915S2" part="RFM95W-915S2">
+      <docs>https://www.rfsolutions.co.uk/downloads/1463993415RFM95_96_97_98W.pdf</docs>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">RFM95W-915S2</field>
+        <field name="Footprint">RF_Module:HOPERF_RFM9XW_SMD</field>
+        <field name="Supplier 1">Digi-Key</field>
+        <field name="Supplier Part Number 1">RFM95W-915S2-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="GND" type="power_in"/>
+        <pin num="2" name="MISO" type="output"/>
+        <pin num="3" name="MOSI" type="input"/>
+        <pin num="4" name="SCK" type="input"/>
+        <pin num="5" name="NSS" type="input"/>
+        <pin num="6" name="RESET" type="BiDi"/>
+        <pin num="7" name="DIO5" type="BiDi"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="ANT" type="BiDi"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="DIO3" type="BiDi"/>
+        <pin num="12" name="DIO4" type="BiDi"/>
+        <pin num="13" name="3.3V" type="power_in"/>
+        <pin num="14" name="DIO0" type="BiDi"/>
+        <pin num="15" name="DIO1" type="BiDi"/>
+        <pin num="16" name="DIO2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="U.FL-R-SMT-1_10_" part="U.FL-R-SMT-1_10_">
+      <description>UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial</description>
+      <docs>https://www.hirose.com/product/document?clcode=CL0331-0472-2-10&amp;productname=U.FL-R-SMT-1(10)&amp;series=U.FL&amp;documenttype=2DDrawing&amp;lang=en&amp;documentid=0000940684</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">U.FL-R-SMT-1_10_</field>
+        <field name="Footprint">U.FL-R-SMT-1(10):U.FL-R-SMT-1_10_</field>
+        <field name="Description">UFL SMT PCB receptable,DC-6GHz Hirose Straight 50 Surface Mount UFL Connector, Receptacle, Solder Termination Coaxial</field>
+        <field name="Manufacturer Name">Hirose</field>
+        <field name="Manufacturer Part Number">U.FL-R-SMT-1(10)</field>
+        <field name="Supplier Part Number 2">798-U.FL-R-SMT-110</field>
+        <field name="Supplier 2">Mouser</field>
+        <field name="Supplier 1">Digi-Key</field>
+        <field name="Supplier Part Number 1">H11891CT-ND</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="C-10uF-0805">
+      <uri>C:\Ext\lora-development-boards\lora-testing-board/Symbols/C-10uF-0805.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="RFM95W-915S2">
+      <uri>C:\Ext\lora-development-boards\lora-testing-board/Symbols/RFM95W-915S2.lib</uri>
+    </library>
+    <library logical="U.FL-R-SMT-1_10_">
+      <uri>C:\Ext\lora-development-boards\lora-testing-board/Symbols/U.FL-R-SMT-1_10_.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Net-(J4-Pad5)">
+      <node ref="U1" pin="15"/>
+      <node ref="J4" pin="5"/>
+    </net>
+    <net code="2" name="GND1">
+      <node ref="U1" pin="1"/>
+      <node ref="J1" pin="2"/>
+      <node ref="J2" pin="6"/>
+      <node ref="U1" pin="10"/>
+      <node ref="U1" pin="8"/>
+      <node ref="C1" pin="2"/>
+      <node ref="J4" pin="7"/>
+      <node ref="J3" pin="2"/>
+      <node ref="J3" pin="1"/>
+    </net>
+    <net code="3" name="Net-(J4-Pad6)">
+      <node ref="U1" pin="14"/>
+      <node ref="J4" pin="6"/>
+    </net>
+    <net code="4" name="Net-(J4-Pad4)">
+      <node ref="U1" pin="16"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="5" name="Net-(J4-Pad3)">
+      <node ref="J4" pin="3"/>
+      <node ref="U1" pin="11"/>
+    </net>
+    <net code="6" name="Net-(J4-Pad2)">
+      <node ref="U1" pin="12"/>
+      <node ref="J4" pin="2"/>
+    </net>
+    <net code="7" name="Net-(J4-Pad1)">
+      <node ref="U1" pin="7"/>
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="8" name="Net-(J2-Pad4)">
+      <node ref="U1" pin="5"/>
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="9" name="Net-(J2-Pad3)">
+      <node ref="U1" pin="2"/>
+      <node ref="J2" pin="3"/>
+    </net>
+    <net code="10" name="Net-(J2-Pad2)">
+      <node ref="U1" pin="3"/>
+      <node ref="J2" pin="2"/>
+    </net>
+    <net code="11" name="Net-(J3-Pad3)">
+      <node ref="J3" pin="3"/>
+      <node ref="U1" pin="9"/>
+    </net>
+    <net code="12" name="Net-(J2-Pad5)">
+      <node ref="U1" pin="6"/>
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="13" name="Net-(J2-Pad1)">
+      <node ref="J2" pin="1"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="14" name="Net-(C1-Pad1)">
+      <node ref="U1" pin="13"/>
+      <node ref="C1" pin="1"/>
+      <node ref="J1" pin="1"/>
+    </net>
+  </nets>
+</export>

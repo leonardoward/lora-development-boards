@@ -1,3 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP RFM95W-915S2
+F https://www.rfsolutions.co.uk/downloads/1463993415RFM95_96_97_98W.pdf
+$ENDCMP
+#
 #End Doc Library

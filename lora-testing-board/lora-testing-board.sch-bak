@@ -262,7 +262,7 @@ Connection ~ 7000 3400
 Wire Wire Line
 	7000 3400 7000 3450
 Text Notes 8000 2800 2    100  ~ 0
-RFM95W
+RFM95W-915S2
 Wire Wire Line
 	4650 2950 5300 2950
 Wire Wire Line

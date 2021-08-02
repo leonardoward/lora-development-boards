@@ -1,6 +1,6 @@
 # RFM95W-915S2 Development Board #
 
-This repository contains the design of a development board for the RFM95W-915S2.
+This repository contains the design of a development board for the RFM95W-915S2. The PCB was designed using KiCad.
 
 ## Schematic ##
 
